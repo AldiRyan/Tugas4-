@@ -1,0 +1,27 @@
+.navbar-brand{
+    font-family: 'Squada One', cursive;
+    font-size: 30px;
+}
+
+.jumbotron{
+    background-image: url(https://images.unsplash.com/photo-1531914082256-1b9047242426?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=749&q=80);
+    background-size: w=740px q=80px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 0 -100px;
+    margin-top: 20px;
+    }
+
+.carousel-item{
+    height: 600px;
+}
+
+.contact{
+      margin: 0 auto ;
+      float: none;
+      width: 500px!important;
+  }
+
+.card:hover{
+    background-color: black;
+  }
